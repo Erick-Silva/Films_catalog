@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9c231541-7306-44fa-9b13-5cfb8be947c7/AppServices/subscriptions/9c231541-7306-44fa-9b13-5cfb8be947c7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/films-catalog-pi",
+    "appService.deploySubpath": "."
+}
